@@ -1,7 +1,7 @@
 # SSRStatus
 
 * SSRStatus是一个可以在线监控Shadowsocks/ShadowsocksR账号的云探针、云监控探针~，该云监控的网页文件基于ServerStatus（ https://github.com/ToyoDAdoubi/ServerStatus-Toyo/ ）项目。
-* 在线演示：http://sstz.toyoo.ml/
+* 在线演示：https://sstz.toyoo.ml/
 * 我的博客：https://doub.io/shell-jc5/
 
 # 更新说明：
@@ -16,7 +16,7 @@
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh
 
 # 如果上面这个脚本无法下载，尝试使用备用下载：
-wget -N --no-check-certificate https://softs.fun/Bash/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh
+wget -N --no-check-certificate https://softs.loan/Bash/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh
 ```
 下载并运行脚本后会出现脚本操作菜单，选择并输入` 1 `就会开始安装。
 
